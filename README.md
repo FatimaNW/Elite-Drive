@@ -1,7 +1,19 @@
-# Elite Drive
+# 🚗 Elite Drive
 **Elite Drive** is a ride-hailing system inspired by Uber, built in C++ using core Data Structures and Algorithms concepts. It features rider and driver registration, ride matching based on capacity, fare calculation using Dijkstra’s algorithm, file handling for data persistence, and an admin panel to manage records and feedback.
 
-## Tech Stack
+## 🚀 Features
+
+- User and driver registration with proper validation  
+- Persistent storage of user and driver data using file handling  
+- Ride booking with pickup and drop-off location  
+- Fare calculation using Dijkstra's algorithm for shortest path  
+- Random driver assignment from registered driver data  
+- Car assignment using linked list based on passenger count  
+- Rider feedback system  
+- Admin panel to view all rider and driver records  
+- Admin access to all stored feedback
+
+## 🛠 Tech Stack
 
 - **Language:** C++
 - **DSA Concepts Used:**  
@@ -15,19 +27,7 @@
   - Polymorphism  
   - Encapsulation
 
-## Features
-
-- User and driver registration with proper validation  
-- Persistent storage of user and driver data using file handling  
-- Ride booking with pickup and drop-off location  
-- Fare calculation using Dijkstra's algorithm for shortest path  
-- Random driver assignment from registered driver data  
-- Car assignment using linked list based on passenger count  
-- Rider feedback system  
-- Admin panel to view all rider and driver records  
-- Admin access to all stored feedback
-
-## How to Use
+## 🧭 How to Use
 
 1. **Clone the Repository**
    ```bash
@@ -56,7 +56,7 @@
    - View all saved records  
    - Read feedback
 
-## Files Generated
+## 📄 Files Generated
 
 These files are automatically created if they don’t exist and updated throughout use.
 
@@ -65,7 +65,7 @@ These files are automatically created if they don’t exist and updated througho
 - `Registered_Riders.txt`   
 - `Rider_Feedback.txt` 
    
-## Route Graph
+## 🗺️ Route Graph
 
 The following graph represents the available ride routes in Elite Drive.
 
@@ -74,3 +74,6 @@ The following graph represents the available ride routes in Elite Drive.
  - **Dijkstra’s Algorithm** is used to calculate the shortest path (i.e., minimum fare) between a rider’s pickup and drop-off location.
 
 ![Route Graph](Route_Graph.png)
+
+#
+**Note:** This project was created during my second year of university as part of Data Structure Algorithms & Applications course.
