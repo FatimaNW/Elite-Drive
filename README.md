@@ -65,4 +65,12 @@ These files are automatically created if they don’t exist and updated througho
 - `Registered_Riders.txt`   
 - `Rider_Feedback.txt` 
    
+## Route Graph
 
+The following graph represents the available ride routes in Elite Drive.
+
+ - **Nodes** are city areas (pickup/drop-off points)
+ - **Edges** represent fare (in PKR) between two connected areas.
+ - **Dijkstra’s Algorithm** is used to calculate the shortest path (i.e., minimum fare) between a rider’s pickup and drop-off location.
+
+![Route Graph](Route_Graph.png)
