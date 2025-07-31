@@ -1,0 +1,24 @@
+
+Name: Fatima
+Phone Number: 03129876345
+Email: fatima@gmail.com
+NIC: 4210156743178
+Age: 23
+
+Name: Huma
+Phone Number: 03467895439
+Email: humadriver@gmail.com
+NIC: 4210165741100
+Age: 30
+
+Name: Michael
+Phone Number: 98756245631
+Email: mikemotor80@gmail.com
+NIC: 6245381092482
+Age: 45
+
+Name: Remus
+Phone Number: 42156782301
+Email: moony@gmail.com
+NIC: 4210156723012
+Age: 19

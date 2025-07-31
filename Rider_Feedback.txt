@@ -1,0 +1,12 @@
+
+Name: Frodo
+Rating: 5/5 stars
+Review: Excellent
+
+Name: Haris
+Rating: 4/5 stars
+Review: Nice
+
+Name: Sarah
+Rating: 3/5 stars
+Review: Meh

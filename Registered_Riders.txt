@@ -1,0 +1,15 @@
+
+Name: Frodo
+Phone Number: 92341005643
+Email: frodo56@gmail.com
+Age: 45
+
+Name: Haris
+Phone Number: 03126783401
+Email: harry@gmail.com
+Age: 26
+
+Name: Sarah
+Phone Number: 03225674398
+Email: s4r4h@gmail.com
+Age: 20
